@@ -8,7 +8,7 @@
 #property version   "1.00"
 //--- Incluir classe
 //#include "my_expert_class.mqh" //Se estiver no mesmo diretório do EA
-#include <my_expert_class.mqh>
+#include <ERASMO\my_expert_class.mqh>
 //--- input parameters
 input int      StopLoss=30;         //Stop Loss(Somente de leitura) - em pontos (se for ação 1 ponto = R$0,01)
 input int      TackProfit=100;      //Take Profit(Somente de leitura) - em pontos (se for ação 1 ponto = R$0,01)

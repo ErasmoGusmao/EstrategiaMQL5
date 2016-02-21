@@ -1,0 +1,6 @@
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\bin\Debug\ThresholdEstimator.exe.config
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\bin\Debug\ThresholdEstimator.exe
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\bin\Debug\ThresholdEstimator.pdb
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\obj\Debug\ThresholdEstimator.csprojResolveAssemblyReference.cache
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\obj\Debug\ThresholdEstimator.exe
+C:\Users\Erasmo\Documents\GitHub\EstrategiaMQL5\Aplicativo Threshold Estimator\ThresholdEstimator\ThresholdEstimator\obj\Debug\ThresholdEstimator.pdb
