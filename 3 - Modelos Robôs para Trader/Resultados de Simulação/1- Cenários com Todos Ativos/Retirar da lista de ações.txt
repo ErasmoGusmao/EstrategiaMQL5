@@ -1,0 +1,11 @@
+Retirada Lista de ações: Negociaos menor que 1000
+TERI3
+ALPA4
+BRPR3
+CPLE6
+EVEN3
+GETI4
+MILS3
+BBDS
+
+RETARÁ: 79 LINHAS
